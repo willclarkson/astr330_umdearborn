@@ -1,11 +1,11 @@
 # ./notebooks #
 
-##Contents:##
+## Contents: ##
 
 astr330_stats01_CentralLimitTheorem_and_Gaussian.ipynb	
 astr330_stats02_magnUncertainties.ipynb
 
-##To run these:##
+## To run these: ##
 
 These are Jupyter notebooks; opening the notebook in your browswer
 should cause them to run. On a UNIX-like system (e.g. OS X Terminal), typing 
@@ -15,7 +15,7 @@ should cause them to run. On a UNIX-like system (e.g. OS X Terminal), typing
 will open the notebook in your browswer. Under Windows, I think
 double-clicking the notebook will cause it to launch.
 
-##Required modules:##
+## Required modules: ##
 
 If when running these you get an error message like 
 
