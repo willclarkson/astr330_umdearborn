@@ -28,3 +28,6 @@ etc. built-in. You can get **anaconda** for free from the following
 link:
 
 [https://www.anaconda.com/distribution/#download-section]
+
+While I wrote these notebooks under python 2.7, they should work
+without problems with python 3 .
