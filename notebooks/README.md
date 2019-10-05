@@ -27,7 +27,7 @@ python distribution, which comes with **numpy**, **matplotlib**
 etc. built-in. You can get **anaconda** for free from the following
 link:
 
-[https://www.anaconda.com/distribution/#download-section]
+<a href="https://www.anaconda.com/distribution/#download-section" target="_blank">https://www.anaconda.com/distribution/#download-section</a>
 
 While I wrote these notebooks under python 2.7, they should work
 without problems with python 3 .
